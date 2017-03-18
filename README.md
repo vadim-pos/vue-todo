@@ -1,3 +1,1 @@
-# vue-todo
-
-> A simple Vue.js Todo app
+# A simple Vue.js Todo app
